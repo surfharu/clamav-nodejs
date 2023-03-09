@@ -6,7 +6,7 @@ For details, see the guide [How to install ClamAV on docker and use it in nodejs
 - nodejs
 - docker
 
-# Usage
+## Usage
 Install modules:
 ```console
 $ yarn
